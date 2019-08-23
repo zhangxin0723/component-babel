@@ -1,0 +1,10 @@
+.propver{
+  margin: 40px;
+}
+button{
+  display: inline-block;
+  width: 100px;
+  height: 30px;
+  padding: 20px;
+  text-align: center;
+}

@@ -1,0 +1,10 @@
+.alert{
+  margin: 10px;
+  width: 200px;
+  height: 30px;
+  line-height: 30px;
+  padding: 0 10px;
+  border:1px solid #ccc;
+  border-radius: 5px;
+  font-size: 12px;
+}

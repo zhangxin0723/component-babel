@@ -1,0 +1,13 @@
+.badge{
+  margin: 10px;
+}
+.dot{
+  height: 20px;
+  text-align: center;
+  padding: 0 6.5px;
+  line-height: 20px;
+  background: red;
+  color:#fff;
+  border-radius: 20px;
+  font-size: 12px;
+}

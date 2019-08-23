@@ -1,0 +1,32 @@
+.input-numver-box{
+  width: 80px;
+  height: 40px;
+  border:1px solid #eee;
+  margin: 10px;
+  position: relative;
+  border-radius: 5px;
+}
+input{
+  width: 75%;
+  height: 100%;
+  border:none;
+  padding: 0 10px;
+  border-radius: 5px;
+}
+.info{
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+button{
+  width: 20px;
+  height: 20px;
+  display: block;
+  background: #fff;
+}
+.add{
+  border-radius: 0 5px 0 0;
+}
+.sub{
+  border-radius: 0 0 5px 0;
+}
